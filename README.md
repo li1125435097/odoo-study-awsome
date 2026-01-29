@@ -1,2 +1,9 @@
 # odoo-study-awsome
-Odoo Framework Development Guide，odoo study，odoo17框架开发宝典
+
+本项目代码以odoo v17为例
+
+
+
+
+
+
